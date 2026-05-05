@@ -12,6 +12,7 @@
     .card {
       background-color: #1f1f1f;
       border: none;
+      cursor: pointer;
     }
     .card img {
       height: 250px;
@@ -21,7 +22,6 @@
         width: 50px;
         height: 30px;
     }
-
-    .card{
-        cursor: pointer;
+    .pep .card{
+        border: none;
     }
